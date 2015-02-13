@@ -1,4 +1,0 @@
-Under src folder, it is the zip file of PlayGround App. After unzipping it, a folder named PlayGround will show up. This is a typical Android project and can be imported to Eclipse directly. There are several files that are needed to be marked in here.
-
-1. All the measurement and calibration data are store in assets folder;
-2. And all related java files are located in src/com/example/playground.

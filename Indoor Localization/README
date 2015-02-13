@@ -1,8 +1,0 @@
-#user manual for build and run Node application
-1 Build application:
-	1.1 Open one terminal and enter the folder that includes all the source code;
-	1.2 run “make” command to compile the source code;
-	1.3 If some errors occurred, just edit the Makefile by delete the “#” in the second line.
-2 Run application:
-	1.1 ./Node to run the application;
-	1.2 type “help” to check all the commands.
